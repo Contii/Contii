@@ -1,4 +1,4 @@
-### Olá, este perfil apresenta os principais projetos desenvolvidos ao longo da minha graduação e estudos.
+### Olá, Seja bem vindo. publico aqui os principais projetos desenvolvidos em meus estudos.
 
 
 
