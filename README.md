@@ -6,16 +6,24 @@
 ### 💻 Estou procurando um estágio em desenvolvimento de software.
 <br></br>
 
+<!---
 
 <p align="center">
 <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=Contii&show_icons=true&bg_color=DEG,00000000,00000000,15141b&theme=aura&hide_border=true&border_radius=5&count_private=true">
 <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contii&show_icons=true&bg_color=DEG,15141b,00000000,00000000&theme=aura&hide_border=true&border_radius=5&langs_count=5&layout=compact"/>
 </p>
 
+-->
 
 
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Contii&show_icons=true&bg_color=DEG,00000000,00000000,15141b&theme=aura&hide_border=true&border_radius=5&count_private=true" />
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contii&show_icons=true&bg_color=DEG,15141b,00000000,00000000&theme=aura&hide_border=true&border_radius=5&langs_count=5&layout=compact" /></div>
+</div>
 
 
+<br></br><br></br><br></br><br></br><br></br>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=contii)  
 ![GitHub metrics](https://metrics.lecoq.io/contii)  
 ![Profile views](https://gpvc.arturio.dev/contii) 
