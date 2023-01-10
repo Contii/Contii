@@ -1,13 +1,12 @@
-# <p align="center"> Olá, Seja bem-vindo. <img src="https://github.com/Contii/Contii/blob/main/wave.gif" width="30px"> </p> 
-<br></br>
+# <p align="center"> Olá, Seja bem-vindo(a). <img src="https://github.com/Contii/Contii/blob/main/wave.gif" width="30px"> </p> 
 # <p align="center"> Publico aqui os principais projetos desenvolvidos em meus estudos. </p>
-
+<br></br>
 ### 📚 Estou cursando Ciência da computação na Universidade Tecnológica Federal do Paraná.
 ### 🎓 Atualmente estou no 7° período.
 ### 💻 Estou procurando um estágio em desenvolvimento de software.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Contii"/>
-
+<br></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Contii&count_private=true&show_icons=true&bg_color=00000000&theme=aura"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Contii&count_private=true&show_icons=true&theme=aura"/>
 <p align="center">
 <a href="https://www.instagram.com/joaoconti/" rel="nofollow"><img src="https://camo.githubusercontent.com/13b4ab64e1a639ef039c1688b03c7a1a0aaa875a1858fa56888aa09c492aac6a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f696e7374616772616d2d6e65772e706e67" alt="instagram" data-canonical-src="https://img.icons8.com/color/96/000000/instagram-new.png" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/joaoconti/" rel="nofollow"><img src="https://camo.githubusercontent.com/4f660401d8469647f004f5740254c81a657f48d4c55a635be05ffb196c2be320/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6c696e6b6564696e2e706e67" alt="linkedin" data-canonical-src="https://img.icons8.com/color/96/000000/linkedin.png" style="max-width: 100%;"></a>
