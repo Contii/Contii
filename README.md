@@ -1,4 +1,7 @@
-# Olá, Seja bem-vindo. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> publico aqui os principais projetos desenvolvidos em meus estudos.
+# <p align="center"> Olá, Seja bem-vindo. <img src="https://github.com/Contii/Contii/blob/main/wave.gif" width="30px"> </p> 
+<br></br>
+# <p align="center"> Publico aqui os principais projetos desenvolvidos em meus estudos. </p>
+
 ### 📚 Estou cursando Ciência da computação na Universidade Tecnológica Federal do Paraná.
 ### 🎓 Atualmente estou no Sétimo período.
 ### 💻 Estou procurando um estágio em desenvolvimento de software.
