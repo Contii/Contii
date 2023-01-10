@@ -4,16 +4,8 @@
 ### 📚 Estou cursando Ciência da computação na Universidade Tecnológica Federal do Paraná.
 ### 🎓 Atualmente estou no 7° período.
 ### 💻 Estou procurando um estágio em desenvolvimento de software.
-<br></br>
 
 <!---
-
-<p align="center">
-<img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=Contii&show_icons=true&bg_color=DEG,00000000,00000000,15141b&theme=aura&hide_border=true&border_radius=5&count_private=true">
-<img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contii&show_icons=true&bg_color=DEG,15141b,00000000,00000000&theme=aura&hide_border=true&border_radius=5&langs_count=5&layout=compact"/>
-</p>
-
-
 
 
 
@@ -29,11 +21,6 @@
 </p>
 <br></br>
 
-
-
-![GitHub metrics](https://metrics.lecoq.io/contii) 
-<br></br>
-![Profile views](https://gpvc.arturio.dev/contii) 
 
 
 
@@ -60,4 +47,4 @@
 
 
 
-
+![Profile views](https://gpvc.arturio.dev/contii) 
