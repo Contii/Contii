@@ -1,4 +1,4 @@
-### Olá, Seja bem-vindo. publico aqui os principais projetos desenvolvidos em meus estudos.
+## Olá, Seja bem-vindo. publico aqui os principais projetos desenvolvidos em meus estudos.
 
 
 
@@ -19,8 +19,7 @@
 - GTX 1050TI 4GB
 - 2x8GB DDR4
 - 1TB HDD + 480GB SSD
-
-
+<br></br>
 - 💻 NOTEBOOK ACER ASPIRE 3
 - Core I5 7200U
 - 4+8GB DDR4
