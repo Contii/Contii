@@ -6,7 +6,7 @@
 ### 🎓 Atualmente estou no 7° período.
 ### 💻 Estou procurando um estágio em desenvolvimento de software.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Contii"/>
 
 <p align="center">
 <a href="https://www.instagram.com/joaoconti/" rel="nofollow"><img src="https://camo.githubusercontent.com/13b4ab64e1a639ef039c1688b03c7a1a0aaa875a1858fa56888aa09c492aac6a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f696e7374616772616d2d6e65772e706e67" alt="instagram" data-canonical-src="https://img.icons8.com/color/96/000000/instagram-new.png" style="max-width: 100%;"></a>
