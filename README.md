@@ -29,7 +29,7 @@ COMENTARIOS
   <a href="https://discord.com/users/245694969254379520" rel="nofollow"><img src="https://camo.githubusercontent.com/ce59733ab17541cd60c5a8017a92965e5e1f01085f7612535b7203af318fb1da/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f646973636f72642d6c6f676f2e706e67" alt="discord" data-canonical-src="https://img.icons8.com/color/96/000000/discord-logo.png" style="max-width: 100%;">   </a>
  <br> <img align="center" src="https://gpvc.arturio.dev/contii"/> </br>
 </p>
-  <br></br>
+
 
 <!--- Skills -->
 # Skills
@@ -55,4 +55,5 @@ Core I5 6400/ GTX 1050TI 4GB/ 2x8GB DDR4/ 1TB HDD + 480GB SSD
 ### - 💻 NOTEBOOK ACER ASPIRE 3 |
 Core I5 7200U/ 4+8GB DDR4/ 480GB SSD
 
+  <p align="left"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=22cl3kqtntyokapenchsk4iby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true"> </p>
 <p align="center"> <img src="https://github.com/Contii/Contii/blob/main/Bottom.svg" width="100%"> </p> 
