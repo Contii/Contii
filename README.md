@@ -55,7 +55,4 @@ Core I5 6400/ GTX 1050TI 4GB/ 2x8GB DDR4/ 1TB HDD + 480GB SSD
 ### - 💻 NOTEBOOK ACER ASPIRE 3 |
 Core I5 7200U/ 4+8GB DDR4/ 480GB SSD
 
-
-<p align="center" dir="auto">
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/contii/contii/Bottom.svg"><img src="https://raw.githubusercontent.com/contii/contii/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
-</p>
+<p align="center"> <img src="https://github.com/Contii/Contii/blob/main/Bottom.svg" width="100%"> </p> 
