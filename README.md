@@ -1,14 +1,15 @@
 # <p align="center"> Olá, Seja bem-vindo(a). <img src="https://github.com/Contii/Contii/blob/main/wave.gif" width="30px"> </p> 
-# <p align="center"> Publico aqui os principais projetos desenvolvidos durante meus estudos. </p>
+# <p align="center"> Publico aqui alguns ods projetos desenvolvidos durante meus estudos. </p>
 <br></br>
 ### 📚 Estou cursando Ciência da computação na Universidade Tecnológica Federal do Paraná.
 ### 🎓 Atualmente estou no 7° período.
-### 💻 Estou procurando um estágio em desenvolvimento de software.
 
 <!---
 COMENTARIOS
 
-
+  <br></br>
+  <p align="left"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=22cl3kqtntyokapenchsk4iby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"> </p>
+<p align="center"> <img src="https://github.com/Contii/Contii/blob/main/Bottom.svg" width="100%"> </p> 
 
 github-readme-stats-eight-gold-14.vercel.app
 github-readme-stats.vercel.app
@@ -38,11 +39,11 @@ github-readme-stats.vercel.app
 # Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py" />
   </a>
  <br></br>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mysql" />
   </a>
   <br></br>
  <a href="https://skillicons.dev">
@@ -57,6 +58,3 @@ github-readme-stats.vercel.app
 Core I5 6400/ GTX 1050TI 4GB/ 2x8GB DDR4/ 1TB HDD + 480GB SSD
 ### - 💻 NOTEBOOK ACER ASPIRE 3 |
 Core I5 7200U/ 4+8GB DDR4/ 480GB SSD
-  <br></br>
-  <p align="left"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=22cl3kqtntyokapenchsk4iby&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"> </p>
-<p align="center"> <img src="https://github.com/Contii/Contii/blob/main/Bottom.svg" width="100%"> </p> 
