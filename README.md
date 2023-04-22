@@ -3,7 +3,7 @@
 <br></br>
 ### 📚 Estou cursando Ciência da computação na Universidade Tecnológica Federal do Paraná.
 ### 🎓 Atualmente estou no 7° período.
-
+ 
 <!---
 COMENTARIOS
 
