@@ -23,7 +23,7 @@ github-readme-stats.vercel.app
  <img style="width: 54%;" class="img" height=180 src="https://github-readme-stats-ivory-phi.vercel.app/api/top-langs/?username=Contii&show_icons=true&bg_color=DEG,00000000,00000000,15141b&theme=midnight-purple&hide_border=true&border_radius=5&langs_count=5&layout=compact" />
 <p align="center">
 Cards -->
- <img align="center" height=180 src="https://streak-stats.demolab.com?user=Contii&theme=tokyonight&hide_border=true&border_radius=5&background=DD272700&stroke=EC6B0F&ring=9670EC8B&fire=DD2727&currStreakNum=EC6B0F&currStreakLabel=EC6B0F&border=DD2727&sideNums=61FEC9&sideLabels=61FEC9&dates=A075FC"/>
+ <img align="width: 44%;" height=180 src="https://streak-stats.demolab.com?user=Contii&theme=tokyonight&hide_border=true&border_radius=5&background=DD272700&stroke=EC6B0F&ring=9670EC8B&fire=DD2727&currStreakNum=EC6B0F&currStreakLabel=EC6B0F&border=DD2727&sideNums=61FEC9&sideLabels=61FEC9&dates=A075FC"/>
 </p>
 
 
