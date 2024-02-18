@@ -1,7 +1,3 @@
-# <p align="center"> Olá, Seja bem-vindo(a). <img src="https://github.com/Contii/Contii/blob/main/wave.gif" width="30px"> </p> 
-# <p align="center"> Publico aqui alguns dos projetos desenvolvidos durante meus estudos. </p>
-<br></br>
-### 📚 Estou cursando Ciência da computação na Universidade Tecnológica Federal do Paraná.
 <!---
 COMENTARIOS
 
